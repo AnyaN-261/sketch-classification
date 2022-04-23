@@ -1,0 +1,17 @@
+body{
+    background-image: linear-gradient(to top left,#f54242,#fcc03d,#f7ff9c, #97ff91,#85b1ff,#dc7aff)
+
+}
+#score{
+    font-size:30px;
+    margin-left:10px;
+}
+#time{
+    font-size:30px;
+    float:right;
+    margin-right:10px;
+}
+p{
+    color:black;
+    font-size:35px;
+}
